@@ -14,6 +14,6 @@ Luffy was here
 - image
 - generera den favicon
 - footer med copyright
-- i main en bild fullscreen
+- i main en bild fullscreen , använd hundbilden från johan
 - footer social fascbook & youtube & instagram
 - länka css & javascript, tack :) 
