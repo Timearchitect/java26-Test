@@ -13,7 +13,7 @@ Luffy was here
 - javascript.js
 - image
 - generera den favicon, noah
-- footer med copyright
+- footer med copyright / Kevin
 - i main en bild fullscreen , använd hundbilden från johan
 - footer social fascbook & youtube & instagram  , johanna
 - länka css & javascript, tack :)  faiqa
