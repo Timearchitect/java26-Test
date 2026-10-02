@@ -12,13 +12,13 @@ Luffy was here
 - style.css
 - javascript.js
 - image
-- generera den favicon
+- generera den favicon, noah
 - footer med copyright
 - i main en bild fullscreen , använd hundbilden från johan
-- footer social fascbook & youtube & instagram
-- länka css & javascript, tack :) 
-- flex-box i main för content
-- content är en artikel typ
-- link(a taggar i nav)
-- I css background-color & lite styling (wip)
-- skapa 2 tabbar :  contact.html & about.html 
+- footer social fascbook & youtube & instagram  , johanna
+- länka css & javascript, tack :)  faiqa
+- flex-box i main för content  , COY
+- content är en artikel typ 
+- link(a taggar i nav) , johan ,patrik
+- I css background-color body & lite styling (wip) lite snyggare
+- skapa 2 tabbar :  contact.html & about.html  
