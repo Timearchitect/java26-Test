@@ -17,3 +17,8 @@ Luffy was here
 - i main en bild fullscreen , använd hundbilden från johan
 - footer social fascbook & youtube & instagram
 - länka css & javascript, tack :) 
+- flex-box i main för content
+- content är en artikel typ
+- link(a taggar i nav)
+- I css background-color & lite styling (wip)
+- skapa 2 tabbar :  contact.html & about.html 
