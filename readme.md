@@ -21,3 +21,4 @@ Luffy was here
 - content är en artikel typ
 - link(a taggar i nav)
 - I css background-color & lite styling (wip)
+- skapa 2 tabbar :  contact.html & about.html 
